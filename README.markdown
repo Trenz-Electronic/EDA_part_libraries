@@ -8,7 +8,6 @@ Trenz Electronic encourages anyone to share and improve this EDA (electronic des
 
 ## Trenz Electronic TE0600 (GigaBee)
 - LIB-TE0600-Eagle.lbr: CadSoft EAGLE (version 6.1).<br />
-  [TODO: very usefuly when building UCF file: pin labels specifying also FPGA pin (e.g. A5)]
 
 ## GlobalTop FGPMMOPA6C (PA6C)
 - LIB-FGPMMOPA6C_PA6C.lbr: CadSoft EAGLE (version 6.1).
