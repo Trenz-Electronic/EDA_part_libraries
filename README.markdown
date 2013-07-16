@@ -7,7 +7,10 @@ Trenz Electronic encourages anyone to share and improve this EDA (electronic des
 - LIB-TE0140-Protel-SCH.lib: Protel/Altium Designer, schematic library (version 4.0).
 
 ## Trenz Electronic TE0600 (GigaBee)
-- LIB-TE0600-Eagle.lbr: CadSoft EAGLE (version 6.1).<br />
+- LIB-TE0600-Eagle.lbr: CadSoft EAGLE (version 6.1).
+
+## Trenz Electronic TE0720 (GigaZee)
+- LIB-TE0720-Eagle.lbr: CadSoft EAGLE (version 6.1).
 
 ## GlobalTop FGPMMOPA6C (PA6C)
 - LIB-FGPMMOPA6C_PA6C.lbr: CadSoft EAGLE (version 6.1).
