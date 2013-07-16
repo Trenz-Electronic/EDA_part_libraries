@@ -1,5 +1,5 @@
 # EDA (electronic design automation) part libraries
-Trenz Electronic encourages anyone to share and improve this EDA (electronic design automation) part library collection. Community contributions are provided "as are", without any express or implied warranty.
+Trenz Electronic encourages anyone to share and improve this EDA (electronic design automation) part library collection. Community contributions are provided "as is", without any express or implied warranty.
 
 ## Trenz Electronic TE0140
 - LIB-TE0140-Eagle.lbr: CadSoft EAGLE [community contribution]
