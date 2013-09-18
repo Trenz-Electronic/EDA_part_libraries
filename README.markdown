@@ -52,6 +52,7 @@ File naming conventions:
 
 ## Trenz Electronic TE0720 (GigaZee)
 - CadSoft EAGLE (version 6.1) [community contribution]
+- CadSoft EAGLE schematic diagram [community contribution]
 - Open CASCADE (version 6.2), application protocol AP 214 (Core data for automotive mechanical design processes)
 
 * * *
