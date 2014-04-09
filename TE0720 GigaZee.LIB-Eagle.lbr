@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.1">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -154,8 +154,8 @@ see &lt;a href='https://wiki.trenz-electronic.de/display/TE0720/Carrier+Board+Ch
 <pad name="DRILL1" x="22" y="37" drill="3" diameter="6" rot="R180"/>
 <pad name="DRILL3" x="-22" y="3" drill="3" diameter="6" rot="R180"/>
 <pad name="DRILL4" x="22" y="3" drill="3" diameter="6" rot="R180"/>
-<dimension x1="22" y1="0" x2="-22" y2="0" x3="0" y3="-7" layer="100"/>
-<dimension x1="25" y1="37" x2="25" y2="3" x3="41.43" y3="20" layer="100"/>
+<dimension x1="22" y1="0" x2="-22" y2="0" x3="0" y3="-7" textsize="3.5" layer="100"/>
+<dimension x1="25" y1="37" x2="25" y2="3" x3="41.43" y3="20" textsize="3.5" layer="100"/>
 <smd name="J2-1" x="-12.25" y="34.15" dx="1.5" dy="0.3" layer="1" rot="R90"/>
 <smd name="J2-2" x="-12.25" y="37.85" dx="1.5" dy="0.3" layer="1" rot="R90"/>
 <smd name="J2-3" x="-11.75" y="34.15" dx="1.5" dy="0.3" layer="1" rot="R90"/>
@@ -366,9 +366,9 @@ see &lt;a href='https://wiki.trenz-electronic.de/display/TE0720/Carrier+Board+Ch
 <wire x1="-15.35" y1="1.05" x2="15.35" y2="1.05" width="0.254" layer="21"/>
 <text x="16.15" y="3.25" size="1.27" layer="51">J1</text>
 <text x="16.3" y="35.6" size="1.27" layer="51">J2</text>
-<dimension x1="25" y1="40" x2="-25" y2="40" x3="0" y3="45" layer="100"/>
-<dimension x1="-25" y1="40" x2="-25" y2="0" x3="-30.589934375" y3="20" layer="100"/>
-<dimension x1="22" y1="35.5" x2="22" y2="38.5" x3="38.08" y3="37" layer="100" dtype="diameter"/>
+<dimension x1="25" y1="40" x2="-25" y2="40" x3="0" y3="45" textsize="3.5" layer="100"/>
+<dimension x1="-25" y1="40" x2="-25" y2="0" x3="-30.589934375" y3="20" textsize="3.5" layer="100"/>
+<dimension x1="22" y1="35.5" x2="22" y2="38.5" x3="38.08" y3="37" textsize="3.5" layer="100" dtype="diameter"/>
 <hole x="-13.5" y="4.8632" drill="1.5"/>
 <hole x="13.5" y="4.8632" drill="1.5"/>
 <wire x1="14.85" y1="1.5632" x2="13.4" y2="1.5632" width="0.254" layer="51"/>
@@ -587,12 +587,12 @@ see &lt;a href='https://wiki.trenz-electronic.de/display/TE0720/Carrier+Board+Ch
 <text x="-18.985" y="7.365" size="1.27" layer="51" rot="R90">J5</text>
 <pad name="CASE@6" x="-19.85" y="10.03" drill="1"/>
 <pad name="CASE@5" x="-19.85" y="29.981" drill="1"/>
-<dimension x1="-21.59" y1="3" x2="-20.32" y2="10.03" x3="-38.1" y3="6.515" layer="100" dtype="vertical"/>
-<dimension x1="-22" y1="36.83" x2="-14.975" y2="34.29" x3="-18.415" y3="53.34" layer="100" dtype="horizontal"/>
-<dimension x1="-22" y1="2.54" x2="-19.85" y2="10.16" x3="-20.32" y3="-12.7" layer="100" dtype="horizontal"/>
-<dimension x1="-21.59" y1="3" x2="-22.86" y2="12.75" x3="-48.26" y3="7.62" layer="100" dtype="vertical"/>
-<dimension x1="21.59" y1="37" x2="15.24" y2="34.8545" x3="31.75" y3="35.92725" layer="100" dtype="vertical"/>
-<dimension x1="21.59" y1="3" x2="15.24" y2="2.85" x3="30.48" y3="2.925" layer="100" dtype="vertical"/>
+<dimension x1="-21.59" y1="3" x2="-20.32" y2="10.03" x3="-38.1" y3="6.515" textsize="3.5" layer="100" dtype="vertical"/>
+<dimension x1="-22" y1="36.83" x2="-14.975" y2="34.29" x3="-18.415" y3="53.34" textsize="3.5" layer="100" dtype="horizontal"/>
+<dimension x1="-22" y1="2.54" x2="-19.85" y2="10.16" x3="-20.32" y3="-12.7" textsize="3.5" layer="100" dtype="horizontal"/>
+<dimension x1="-21.59" y1="3" x2="-22.86" y2="12.75" x3="-48.26" y3="7.62" textsize="3.5" layer="100" dtype="vertical"/>
+<dimension x1="21.59" y1="37" x2="15.24" y2="34.8545" x3="31.75" y3="35.92725" textsize="3.5" layer="100" dtype="vertical"/>
+<dimension x1="21.59" y1="3" x2="15.24" y2="2.85" x3="30.48" y3="2.925" textsize="3.5" layer="100" dtype="vertical"/>
 </package>
 </packages>
 <symbols>
@@ -788,8 +788,8 @@ see &lt;a href='https://wiki.trenz-electronic.de/display/TE0720/Carrier+Board+Ch
 <pin name="B34_L18_N(P21)" x="33.02" y="20.32" length="middle" rot="R180"/>
 <pin name="B34_L20_P(P17)" x="33.02" y="15.24" length="middle" rot="R180"/>
 <pin name="B34_L20_N(P18)" x="33.02" y="12.7" length="middle" rot="R180"/>
-<pin name="B34_L10_P(M19)" x="33.02" y="7.62" length="middle" rot="R180"/>
-<pin name="B34_L10_N(M20)" x="33.02" y="5.08" length="middle" rot="R180"/>
+<pin name="B34_L10_P(L21)" x="33.02" y="7.62" length="middle" rot="R180"/>
+<pin name="B34_L10_N(L22)" x="33.02" y="5.08" length="middle" rot="R180"/>
 <pin name="B34_L12_P(L18)" x="-33.02" y="0" length="middle"/>
 <pin name="B34_L12_N(L19)" x="-33.02" y="-2.54" length="middle"/>
 <pin name="B34_L13_P(M19)" x="33.02" y="0" length="middle" rot="R180"/>
@@ -985,6 +985,10 @@ see &lt;a href='https://wiki.trenz-electronic.de/display/TE0720/Carrier+Board+Ch
 update 26.07.2013:
 &lt;br&gt;
 - FPGA pins added to symbols, see https://wiki.trenz-electronic.de/display/TE0720/Pinout
+&lt;br&gt;&lt;br&gt;
+update 07.04.2014:
+&lt;br&gt;
+- typo B34_L10_P and B23_L10_N  had wrong FPGA pin
 
 &lt;br&gt;
 &lt;h3&gt;designed by:&lt;/h3&gt;
@@ -1123,8 +1127,8 @@ copyright (c) 2013</description>
 <connect gate="G$2" pin="B33_L8_P(AA21)" pad="J2-15"/>
 <connect gate="G$2" pin="B33_VREF(V19/V15)" pad="J2-29"/>
 <connect gate="G$2" pin="RESIN" pad="J2-18"/>
-<connect gate="G$3" pin="B34_L10_N(M20)" pad="J5-28"/>
-<connect gate="G$3" pin="B34_L10_P(M19)" pad="J5-26"/>
+<connect gate="G$3" pin="B34_L10_N(L22)" pad="J5-28"/>
+<connect gate="G$3" pin="B34_L10_P(L21)" pad="J5-26"/>
 <connect gate="G$3" pin="B34_L12_N(L19)" pad="J5-33"/>
 <connect gate="G$3" pin="B34_L12_P(L18)" pad="J5-31"/>
 <connect gate="G$3" pin="B34_L13_N(M20)" pad="J5-34"/>
