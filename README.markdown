@@ -18,7 +18,7 @@ File naming conventions:
 ## Trenz Electronic TE0300
 - SolidWorks 2009, STEP 2.0, application protocol AP 203 (Configuration Controlled Design)
 - Altium Designer, PCB library (Protel Advanced PCB Library, version 3.00) [official]
-- Altium Designer, schematic library (Protel for Windows - Schematic Library Editor Binary File, version 1.2) [official]
+- Altium Designer, schematic library (Protel for Windows, Schematic Library Editor Binary File, version 1.2) [official]
 - CadSoft EAGLE (version 5) [community contribution]
 
 ## Trenz Electronic TE0303
@@ -31,7 +31,7 @@ File naming conventions:
 - SolidWorks 2009, STEP 2.0, application protocol AP 203 (Configuration Controlled Design)
 - CadSoft EAGLE (version 5) [community contribution]
 - Altium Designer, PCB library, connectors only (Protel Advanced PCB Library, version 3.00) [official]
-- Altium Designer, schematic library, connectors only (Protel for Windows - Schematic Library Editor Binary File, version 1.2) [official]
+- Altium Designer, schematic library, connectors only (Protel for Windows, Schematic Library Editor Binary File, version 1.2) [official]
 
 ## Trenz Electronic TE0323
 - Altium Designer: project files
@@ -54,13 +54,15 @@ File naming conventions:
 - CadSoft EAGLE (version 6.1) [community contribution]
 - CadSoft EAGLE schematic diagram [community contribution]
 - Open CASCADE (version 6.2), application protocol AP 214 (Core data for automotive mechanical design processes)
+- Altium Designer, schematic library, connectors only (Protel for Windows, Schematic Library Editor Binary File, version 5.1) [official]
+
 
 * * *
 
 ## GlobalTop FGPMMOPA6C (PA6C)
 - CadSoft EAGLE (version 6.1) [community contribution]
 - Altium Designer, PCB library (Protel Advanced PCB Library, version 3.00) [community contribution]
-- Altium Designer, schematic library (Protel for Windows - Schematic Library Editor Binary File, version 5.0) [community contribution]
+- Altium Designer, schematic library (Protel for Windows, Schematic Library Editor Binary File, version 5.0) [community contribution]
 
 ## GlobalTop FGPMMOPA6H (PA6H)
 - CadSoft EAGLE (version 6.1) [community contribution]
